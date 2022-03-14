@@ -1,6 +1,11 @@
 body{
     font-family: 'Poppins', sans-serif;
     text-align: justify;
+   
+}
+.left-right{
+    margin-left:70px;
+    margin-right: 70px;
 }
 .flexible-display{
     display: flex;
@@ -20,7 +25,7 @@ h1{
     font-size: 50px;
     padding-left: 10px;
 }
-.border1{
+.border-1{
     border-left: 5px solid rgb(255, 29, 12);
   
 }
@@ -41,4 +46,54 @@ h1{
 h2{
     font-size: 40px;
     
+}
+#bg-1{
+    background-color: rgb(171, 220, 240);
+    padding: 10px;
+    margin: 15px;
+    border-radius: 20px;
+}
+#bg-2{
+    background-color: rgb(218, 181, 214);
+    padding: 10px;
+    margin: 15px;
+    border-radius: 20px;
+}
+#bg-3{
+    background-color: rgb(231, 235, 177);
+    padding: 10px;
+    margin: 15px;
+    border-radius: 20px;
+}
+#border-image{
+    height: 150px;
+    width: 150px;
+    margin-left: 0%;
+}
+.coding-image{
+    width: 400px;
+    padding-left: 400px;
+    
+}
+
+.project-image{
+    width: 400px;
+    padding-left: 100px;
+    
+}
+.app-image{
+    width: 400px;
+    height: 650px;
+    padding-left: 350px;
+    
+}
+.red-color{
+    color:red;
+}
+.footer{
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+   
 }
