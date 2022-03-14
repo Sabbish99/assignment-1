@@ -1,7 +1,7 @@
 body{
     font-family: 'Poppins', sans-serif;
     text-align: justify;
-   
+    
 }
 .left-right{
     margin-left:70px;
@@ -45,7 +45,7 @@ h1{
 }
 h2{
     font-size: 40px;
-    
+
 }
 #bg-1{
     background-color: rgb(171, 220, 240);
@@ -73,19 +73,19 @@ h2{
 .coding-image{
     width: 400px;
     padding-left: 400px;
-    
+
 }
 
 .project-image{
     width: 400px;
     padding-left: 100px;
-    
+
 }
 .app-image{
     width: 400px;
     height: 650px;
-    padding-left: 350px;
-    
+    padding-left: 350px; 
+
 }
 .red-color{
     color:red;
@@ -95,5 +95,5 @@ h2{
     background-color: black;
     color: white;
     padding: 20px;
-   
+
 }
