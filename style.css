@@ -1,0 +1,19 @@
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+/* header */
+.header-text {
+    text-align: center;
+    position: relative;
+}
+
+.centered-right {
+    position: absolute;
+    top: 10%;
+    right: 10%;
+    transform: translate(50%, -50%);
+}
