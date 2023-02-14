@@ -6,14 +6,75 @@ body {
 }
 
 /* header */
-.header-text {
-    text-align: center;
-    position: relative;
+.red-border {
+    border: 2px solid red;
+    width: 800px;
+    padding: 100px 200px;
 }
 
-.centered-right {
-    position: absolute;
-    top: 10%;
-    right: 10%;
-    transform: translate(50%, -50%);
+.header-text {
+    text-align: right;
+
+}
+
+
+
+.header-btn {
+    color: white;
+    background-color: #F15B22;
+    border-radius: 5px;
+    padding: 22px 25px;
+    border: none;
+    font-size: 20px;
+}
+
+
+/* my failure */
+.my-failure {
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+
+}
+
+.my-failure-div {
+
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+}
+
+.my-failure-div2 {
+    display: flex;
+    gap: 10px;
+
+
+
+}
+
+.icon-color {
+    color: #16D887;
+}
+
+/* My plans */
+.my-plan {
+
+    text-align: center;
+    align-items: center;
+}
+
+.my-plan-div {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    margin: 0px 230px;
+
+}
+
+.my-plan-div div {
+
+    padding: 50px;
+
 }
