@@ -133,6 +133,7 @@ body {
 }
 
 /* plan 2023 */
+
 .plan-2 {
     font-size: 30px;
     text-align: center;
@@ -155,7 +156,7 @@ body {
     margin: 50px;
     text-align: center;
     align-items: center;
-    background-color: #c0e7ff;
+    background-color: #c6ffe7;
 }
 
 .plan-22 ol {
@@ -165,6 +166,22 @@ body {
 }
 
 
+.phero-div2 {
+    display: flex;
+
+    justify-content: center;
+    padding: 5px;
+}
+
+.phero-div3 {
+
+    padding: 10px 20px;
+    border-radius: 5px;
+    background-color: #F15B22;
+    margin: 10px;
+    color: #ffffff;
+
+}
 
 
 /* footer */
